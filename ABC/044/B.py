@@ -1,0 +1,11 @@
+w = input()
+ 
+ 
+def main(w):
+    for c in w:
+        if w.count(c) % 2 != 0:
+            return 'No'
+    return 'Yes'
+ 
+ 
+print(main(w))
