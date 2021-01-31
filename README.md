@@ -1,4 +1,4 @@
-# AtCoderのコンテストで解いたコード、もしく過去問を解いたコード置き場
+# AtCoderコード置き場
 ## AtCoder
 https://atcoder.jp/
 ## AtCoder Profile
