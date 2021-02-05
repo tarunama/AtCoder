@@ -1,3 +1,6 @@
+# problem
+# https://atcoder.jp/contests/abc189/tasks/abc189_b
+
 n, x = map(int, input().split())
 
 res = 0
